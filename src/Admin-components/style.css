@@ -1,0 +1,42 @@
+.search {
+  border-radius: 25px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: medium;
+  background-color: transparent;
+  color: blue;
+  border-style: solid;
+  border-width: 1px;
+  text-align: center;
+}
+
+.search:hover {
+  border-style: solid;
+  border-width: 1px;
+  border-color: blue;
+}
+
+.card {
+  background-color: white;
+}
+
+.card:hover {
+  background-color: azure;
+}
+
+.link {
+  color: white;
+}
+.link:active {
+  color: white;
+}
+.link:hover {
+  color: white;
+}
+
+.jcard {
+  background-color: azure;
+}
+.jcard:hover {
+  background-color: white;
+}

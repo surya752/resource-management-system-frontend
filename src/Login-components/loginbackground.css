@@ -1,0 +1,129 @@
+.loginbackground {
+
+  padding: 51px 0px 130px 0px;
+  background: url("../Images/loginbackground.gif") center/cover no-repeat fixed;
+  background-position: fixed;
+
+}
+
+.loginbackground43 {
+
+  padding: 10px 0px 4px 0px;
+  background: url("../Images/loginbackground.gif") center/cover no-repeat fixed;
+
+}
+
+* {
+  padding: 0;
+  /* margin: 0; */
+  box-sizing: border-box;
+  font-family: "Titillium Web", sans-serif;
+}
+
+.main {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  color: red;
+
+
+}
+
+.sub-main {
+  display: flex;
+  justify-content: center;
+  width: 35%;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  border-radius: 60px;
+  /* background: rgb(199, 233, 235); */
+}
+
+.sub-main-component {
+  display: flex;
+  justify-content: center;
+  width: 35%;
+
+  /* border-radius: 60px;  */
+  /* background: rgb(199, 233, 235);  */
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+  /* background-color: #fff; */
+  /* background-clip: border-box; */
+  /* border: 1px solid rgba(0,0,0,.125); */
+  /* border-radius: 0.25rem; */
+}
+
+.imgs {
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.container-image {
+  background-color: rgb(223, 221, 221);
+  border-radius: 150px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  width: 100px;
+}
+
+.profile {
+  height: 100px;
+  width: 100px;
+  border-radius: 130px;
+}
+
+.name {
+  padding-left: 10px;
+  font-size: 15px;
+  color: rgb(15, 3, 58);
+}
+
+.text-center {
+  color: rgb(15, 3, 58);
+}
+
+.labelname {
+  /* padding-right: 140px; */
+  color: black;
+}
+
+.second-input {
+  padding-top: 20px;
+}
+
+button {
+  width: 200px;
+  height: 30px;
+
+  border-radius: 30px;
+  background-color: #1B4571;
+  color: white;
+  font-size: 20px;
+  border: none;
+}
+
+.login-button {
+  padding-top: 25px;
+
+}
+
+.link {
+  font-size: 15px;
+  font-weight: 200;
+  padding-left: 10px;
+  color: black;
+}
+
+a {
+  color: #BF2051;
+}
