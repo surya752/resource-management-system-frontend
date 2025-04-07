@@ -16,7 +16,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/resource-manager-app-frontend.git
+   git clone https://github.com/surya752/resource-manager-app-frontend.git
    ```
 2. **Install Dependencies**:  
    Navigate to the project directory and install the required dependencies:
