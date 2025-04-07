@@ -1,4 +1,4 @@
-![image alt]()
+![image alt](https://github.com/surya752/resource-management-system-frontend/blob/31ba67965a076a8bfc4e6136d37142c6d44c2e9f/rms.png?.raw-true)
 ## 🚀 Resource Management System Frontend
 
 This project serves as the frontend application for the Resource Management System, developed using React. It offers a user-friendly interface to streamline the management of resources effectively.
